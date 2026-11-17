@@ -1,0 +1,22 @@
+4.0.0
+
+    com.bootcamp
+    productos-service
+    0.0.1-SNAPSHOT
+    jar
+
+    productos-service
+    http://www.example.com
+
+    
+        UTF-8
+        1.7
+        1.7
+    
+
+    
+        
+            junit
+            junit
+            4.11
+            test
